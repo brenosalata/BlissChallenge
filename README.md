@@ -8,9 +8,9 @@ Application aims to solve the Challenge proposed by Bliss Application.
 
 # Executing the project
 
-Make sure to clone this project to your work space using the command : git clone https://github.com/brenosalata/BlissChallenge.git
-Or
-Unzip the file called BlissRecruitment.zip and open the path projects/BlissRecruitmentSetup/Debug/ and execute the file "setup.exe". 
+Make sure to clone this project to your work space using the command : git clone https://github.com/brenosalata/BlissChallenge.git <br />
+Or <br />
+Download the zip file called BlissRecruitment.zip and go to the path projects/BlissRecruitmentSetup/Debug/ and execute the file "setup.exe". 
 
 - Once you have the code, build the solution by executing the "CTRL + SHIFT + B".
 
